@@ -1,5 +1,0 @@
-Run: python src/main.py
-
-
-python src/main.py --image src/assets/images/parking_lot_1.png --data src/assets/data/coordinates_1.yml --video src/assets/videos/parking_lot_1.mp4 --start-frame 400
-
